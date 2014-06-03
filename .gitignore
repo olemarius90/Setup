@@ -1,0 +1,7 @@
+#Ignore everyting
+*
+
+#exept
+!.gitignore
+!.bash_aliases
+!.vimrc
